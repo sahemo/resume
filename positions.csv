@@ -1,0 +1,17 @@
+section,in_resume,title,loc,institution,start,end,description_1,description_2,description_3
+education,TRUE,"MS, Applied Statistics",University of Dhaka,"Dhaka, BD",2019,2020,CGPA: 3.81 out of 4.00,NA,NA
+education,TRUE,"BS, Applied Statistics",University of Dhaka,"Dhaka, BD",2015,2018,CGPA: 3.64 out of 4.00,NA,NA
+industry_positions,TRUE,R/Shiny Developer,Appsilon,Remote,2022,2022,Responsible for building enterprise quality Shiny Application for Fortune 500 companies.,Currently working on supply chain analytics for one of the top pharma companies.,"Tech stack: R/Shiny, CSS, JS, Azure Data Bricks, Fluent UI, Github, etc."
+industry_positions,TRUE,"Assistant Manager, Credit Analytics",IDLC Finance Ltd,"Dhaka, BD",2021,2022,My role includes developing machine learning models for loan underwriting automation and decision-making., Credit Analytics based on real time data. Generating insight answering business problem., MIS automation with code based apps. 
+industry_positions,TRUE,Research Associate,"DataSense, iSocial","Dhaka, BD",2020,2021,Worked on data pipeline to streamline data from BoP to consumers using the Shujog Platform,Made data available as insights for users as dashboards (Shiny) and automated report (Rmarkdown),Deployed different ML model and classification algorithm on production using REST Services
+industry_positions,TRUE,Consultant Statistician (Part time),Grasp Industries Bangladesh,"Dhaka, BD",2018,2020,Deployed CAPI forms to collect data and build dashboard to monitor survey process,Created automatic report generation tools using real time data with Rmarkdown,
+,,,,,,,,,
+academic_articles,TRUE,Performance of Inverse Probability Weighting Compared to Multiple Imputation for Missing Binary Outcomes in Cluster Randomized Trials,On preparation to submit,,2020,2020,NA,NA,NA
+volunteer,TRUE,Advisory Member,United Nations Youth Advisory Panel in Bangladesh,"Dhaka, BD",2014,2019,Worked as a technical advisor for UN agencies in Bangladesh,Did different kind of surveys and FGDs,Helped to organize different training session and workshop
+volunteer,TRUE,Central Youth Volunteer,Save the Children in Bangladesh,"Dhaka, BD",2015,2015,Support NCTF program with technical assistance,Did interviews and FGDs for the baseline survey of WASH project,Organized different training session and workshop
+,,,,,,,,,
+award,TRUE,Student Conference Award,41st Annual Conference of the International Society for Clinical Biostatistics (ISCB),"Krakow, Poland",2020,2020,Awarded Student Conference Award for the paper on Performance of Inverse Probability Weighting Compared to Multiple Imputation for Missing Binary Outcomes in Cluster Randomized Trials,NA,NA
+award,TRUE,NST Fellowship,"Ministry of Science and Technology, GoB","Dhaka, BD",2020,2020,Received grants as NST Fellowship for thesis paper on Performance of Inverse Probability Weighting Compared to Multiple Imputation for Missing Binary Outcomes in Cluster Randomized Trials,NA,NA
+award,TRUE,Best Poster Presentation Award,2nd International Conference on Applied Statistics 2019,"Dhaka, BD",2019,2019,Awarded for the paper on Predicting Malnutrition Status of Under-Five Children Using Tree Based Models,NA,NA
+award,TRUE,ISRT Scholarship,University of Dhaka,"Dhaka, BD",2017,2017,Awarded for good academic performance,NA,NA
+member,TRUE,Member,International Society for Clinical Biostatistics (ISCB),NA,2020,2020,NA,NA,NA
