@@ -69,7 +69,7 @@ Contact {#contact}
 - <i class="fa fa-twitter"></i> [SabbirHemo](https://twitter.com/SabbirHemo)
 - <i class="fa fa-github"></i> [github.com/sahemo](https://github.com/sahemo)
 - <i class="fab fa-linkedin-in"></i> [sahemo](https://www.linkedin.com/in/sahemo)
-- <i class="fa fa-phone"></i> (+880) 17380 477 81
+- <i class="fa fa-phone"></i> (+44) 7919 831 699
 
 
 
@@ -83,13 +83,12 @@ skills <- tribble(
   "Shiny",            4.5,
   "Python",           3.5,
   "HTML",           4,
-  "CSS",           3.5,
+  "CSS",           4,
+  "Javascript",    3.5,
   "SQL",                4.5,
-  "Apache Spark",     4,
   "Unix",             4.5,
   "Docker",             4,
-  "AWS",              3.5,
-  "Github",           4.5
+  "Git",           4.5
 )
 
 build_skill_bars(skills)
@@ -115,7 +114,7 @@ Sabbir Ahmed Hemo {#title}
 ```{r, eval=TRUE}
 intro_text <- "Statistician with a demonstrated history of working in the research as well as data science for both industry and non-profit organizations. Skilled in R, Python, Shiny, Big Data and Machine Learning."
 
-# \n\n Currently looking for PhD opportunities in the field of biostatistics and missing data.
+# \n\n Currently looking for managerial of shiny developer and data scientist.
 
 cat(sanitize_links(intro_text))
 
